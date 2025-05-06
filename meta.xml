@@ -1,0 +1,4 @@
+<meta type="lua">
+	<script type="client" src="clientCoordsExport.lua" />
+	<script type="server" src="serverCoordsExport.lua" />
+</meta>

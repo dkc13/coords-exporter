@@ -19,7 +19,7 @@ local color = "{749154}"                    -- Color code for chat messages
 local function loadConfig(filePath)
     local file = io.open(filePath, "r")  -- Open the file for reading
     if not file then
-        Console.Log("Error: CES config file is nout found!")
+        Console.Log("Error: CES config file is not found!")
         return
     end
 
